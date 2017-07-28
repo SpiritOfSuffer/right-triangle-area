@@ -1,0 +1,9 @@
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcher.Tests\bin\Debug\TriangleAreaSearcher.Tests.dll
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcher.Tests\bin\Debug\TriangleAreaSearcher.Tests.pdb
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcher.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcher.Tests\bin\Debug\TriangleAreaSearcherLib.dll
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcher.Tests\bin\Debug\TriangleAreaSearcherLib.pdb
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcher.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcher.Tests\obj\Debug\TriangleAreaSearcher.Tests.csprojResolveAssemblyReference.cache
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcher.Tests\obj\Debug\TriangleAreaSearcher.Tests.dll
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcher.Tests\obj\Debug\TriangleAreaSearcher.Tests.pdb

@@ -1,0 +1,4 @@
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcherLib\bin\Debug\TriangleAreaSearcherLib.dll
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcherLib\bin\Debug\TriangleAreaSearcherLib.pdb
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcherLib\obj\Debug\TriangleAreaSearcherLib.dll
+c:\users\dom\documents\visual studio 2015\Projects\RightTriangleArea\TriangleAreaSearcherLib\obj\Debug\TriangleAreaSearcherLib.pdb
